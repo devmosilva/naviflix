@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Navi sempre acompanhou link em suas jornadas, agora é a sua vez de ter uma companheira."}
+        videoDescription={"Navi sempre acompanhou link em suas jornadas, agora é a sua vez de ter uma companheira. abaixo você encontra vídeos de recriação de App e paginas para praticar e lembre-se, programar não é facil !!"}
       />
 
       <Carousel
