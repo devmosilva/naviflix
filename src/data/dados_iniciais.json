@@ -1,0 +1,152 @@
+{
+  "categorias": [
+    {
+      "titulo": "Nubank",
+      "link": "https://nubank.com.br/pedir/nu/?utm_source=google&utm_medium=cpc&utm_campaign=1784086961&utm_term=68923670083&utm_word=nubank&utm_content=427840051376&ad_position=&match_type=e&location=1001533&device=c&utm_keyword_id=aud-427394325571:kwd-306018933097&utm_keyword_id=aud-427394325571:kwd-306018933097&utm_placement=&extension=&geolocation=1001533&gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-Q61pXgKCbMdtcWn7Grv1aYZMBvGkCnRT_2MDAfWxvktHiD3ML7AKMaAt96EALw_wcB",
+      "cor": "#8E07C0",
+      "link_extra": {
+        "text": "O futuro é roxo, conheça a empresa",
+        "url": "https://nubank.com.br/pedir/nu/?utm_source=google&utm_medium=cpc&utm_campaign=1784086961&utm_term=68923670083&utm_word=nubank&utm_content=427840051376&ad_position=&match_type=e&location=1001533&device=c&utm_keyword_id=aud-427394325571:kwd-306018933097&utm_keyword_id=aud-427394325571:kwd-306018933097&utm_placement=&extension=&geolocation=1001533&gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-Q61pXgKCbMdtcWn7Grv1aYZMBvGkCnRT_2MDAfWxvktHiD3ML7AKMaAt96EALw_wcB"
+      },
+      "videos": [
+        {
+          "titulo": "Hey, listen, Qual é o plural de decimal? (:",
+          "url": "https://www.youtube.com/watch?v=JcAamWR_SUs"
+        },
+        {
+          "titulo": "Clonando interface do Nubank ",
+          "url": "https://www.youtube.com/watch?v=DDm0M_rZLJo&t=831s"
+        },
+        {
+          "titulo": "Clonando interface do Nubank com Ionic 5",
+          "url": "https://www.youtube.com/watch?v=5LtVN_j3tmI"
+        },
+        {
+          "titulo": "Clonando a home do nubank com Flutter",
+          "url": "https://www.youtube.com/watch?v=46AJuWhKnsY"
+        },
+        {
+          "titulo": "Clonando Interface do Nubank com Flutter",
+          "url": "https://www.youtube.com/watch?v=YCGidVx-FIY"
+        },
+        {
+          "titulo": "Criando a interface do Nubank em DELPHI",
+          "url": "https://www.youtube.com/watch?v=Gxq77DBUsQs"
+        }
+       
+      ]
+    },
+    {
+      "titulo": "Uber",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "Fist, conheça a empresa.",
+        "url": "https://www.uber.com/br/pt-br/"
+      },
+      "videos": [
+        {
+          "titulo": "Clonando interface do Uber com React Native",
+          "url": "https://www.youtube.com/watch?v=bg-U0xZwcRk"
+        },
+        {
+          "titulo": "Uber Bootstrap",
+          "url": "https://www.youtube.com/watch?v=xE11LNhRQGw"
+        },
+        {
+          "titulo": "Clonando o Uber - Ionic 4 #1",
+          "url": "https://www.youtube.com/watch?v=SzuT70pRT8c"
+        },
+        {
+          "titulo": "Clonando o Uber - Ionic 4 #2",
+          "url": "https://www.youtube.com/watch?v=r1iZwsmbuHE"
+        }, 
+        {
+          "titulo": "Clonando o Uber - Ionic 4 #3",
+          "url": "https://www.youtube.com/watch?v=G5hJIHuzGks"
+        },
+        {
+          "titulo": "Clonando o Uber - Ionic 4 #4",
+          "url": "https://www.youtube.com/watch?v=7KEg2opvUuo"
+        }
+      ]
+    },
+    {
+      "titulo": "PicPay",
+      "cor": "#2EB461",
+      "link_extra": {
+        "text": "Retire seu auxilio, conheça a empresa.",
+        "url": "https://www.picpay.com/site"
+      },
+      "videos": [
+        {
+          "titulo": "Clonando a interface do PicPay com React Native #1",
+          "url": "https://www.youtube.com/watch?v=0CraBZHejKI"
+        },
+        {
+          "titulo": "Clonando a interface do PicPay com React Native #2",
+          "url": "https://www.youtube.com/watch?v=m5w6GcEhteM"
+        },
+        {
+          "titulo": "Clonando a interface do PicPay com React Native #3",
+          "url": "https://www.youtube.com/watch?v=fiuWVbnBIpo"
+        }
+      
+      ]
+    },
+    {
+      "titulo": "Instagram",
+      "cor": "#C737B0",
+      "link_extra": {
+        "text": "Poste só mais um story, conheça a empresa.",
+        "url": "https://www.instagram.com/"
+      },
+
+      "videos": [
+        {
+          "titulo": "Clonando interface do Instagram (+ SCROLL ANIMADO) com React Native",
+          "url": "https://www.youtube.com/watch?v=2nXsLpUCO20"
+        },
+        {
+          "titulo": "Recriando interface do Instagram | Time-lapse | React Native",
+          "url": "https://www.youtube.com/watch?v=k-n96HA3PJU"
+        },
+        {
+          "titulo": "CRIANDO SEU PRIMEIRO APLICATIVO | CLONE DO INSTAGRAM COM REACT NATIVE",
+          "url": "https://www.youtube.com/watch?v=ku0XX8ClHOE"
+        },
+        {
+          "titulo": "Webflow: Recriando a tela de login do Instagram",
+          "url": "https://www.youtube.com/watch?v=lk228it_I4Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Discord",
+      "cor": "#2A5EE8",
+      "link_extra": {
+        "text": "Talk, conheça a empresa.",
+        "url": "https://discord.com/new"
+      },
+      "videos": [
+        {
+          "titulo": "Recriando a Interface do Discord com ReactJS | UI Clone",
+          "url": "https://www.youtube.com/watch?v=x4FdZd2-_uU"
+        }
+      ]
+    },
+    {
+      "titulo": "Twitter",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "RT, conheça a empresa",
+        "url": "https://twitter.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Twitter Responsivo com ReactJS | UI Clone",
+          "url": "https://www.youtube.com/watch?v=K-8z_4xvT3o"
+        }
+      ]
+    }
+  ]
+}
