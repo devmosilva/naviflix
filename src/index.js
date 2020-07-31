@@ -15,7 +15,7 @@ ReactDOM.render(
     <Route  path='/' component={App} exact/>
     <Route  path='/cadastro/video' component={CadastroVideo} />
     <Route  path='/cadastro/categoria' component={CadastroCategoria} />
-    <Route  component={Error404} />
+    <Route  component= {Error404} />
   </Switch>
 </BrowserRouter> ,
   
